@@ -1,5 +1,5 @@
 {
-  "name": "pancake-frontend",
+  "name": "digibroker",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -95,8 +95,6 @@
     "@types/react-transition-group": "^4.4.1",
     "@types/simplemde": "^1.11.7",
     "eslint": "^7.26.0",
-    "husky": "4.3.5",
-    "prettier": "^2.3.0",
     "source-map-explorer": "^2.5.2",
     "ts-node": "^9.1.1"
   }
